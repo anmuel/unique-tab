@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "unique tab",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "unique tab",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Make sure that only a single tab of a unique URL is opened in your browser window",
+    "description": "The description of the application"
+  }
+}
